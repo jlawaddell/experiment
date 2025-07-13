@@ -1,0 +1,23 @@
+/**
+  * @name experiment
+  * @author DevEvil
+  * @invite jsQ9UP7kCA
+*/
+
+@import url('https://devevil99.github.io/devevil/BetterDiscordAddons/Theme/RosyNight/RosyNight.theme.css');
+@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/SettingsIcons.css);
+
+:root {
+  --rosynight-app-bg: #0000;
+  --rosynight-bg: #181818;
+  --rosynight-bg2: #212121;
+  --rosynight-main: #fc8686;
+  --rosynight-main2: #f3aeae;
+  --rosynight-message-color: #f3aeae;
+  --watermark-filter-invert: 78%;
+  --watermark-filter-sepia: 46%;
+  --watermark-filter-saturate: 536%;
+  --watermark-filter-hue-rotate: 310deg;
+  --watermark-filter-brightness: 150%;
+  --watermark-filter-contrast: 88%;  
+}
